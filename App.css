@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+}
+.App {
+  text-align: center;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: 13px;
+  font-weight: bold;
+}
+
+.form input {
+  width: 200px;
+  height: 20px;
+  margin: 10px;
+  font-size: 20px;
+}
+
+.card {
+  width: 500px;
+  height: 150px;
+  border: 2px solid black;
+  border-radius: 15px;
+  margin: 10px;
+}
+
+#updateInput {
+  width: 100px;
+  height: 20px;
+  margin-bottom: 10px;
+}
